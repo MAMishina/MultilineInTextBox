@@ -34,9 +34,9 @@
             // 
             // readFile
             // 
-            this.readFile.Location = new System.Drawing.Point(255, 12);
+            this.readFile.Location = new System.Drawing.Point(12, 17);
             this.readFile.Name = "readFile";
-            this.readFile.Size = new System.Drawing.Size(181, 29);
+            this.readFile.Size = new System.Drawing.Size(719, 29);
             this.readFile.TabIndex = 0;
             this.readFile.Text = "Прочитать файл";
             this.readFile.UseVisualStyleBackColor = true;
