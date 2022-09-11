@@ -9,6 +9,11 @@ namespace MultilineInTextBox
             InitializeComponent();
         }
 
+        /// <summary>
+        /// кнопка "открыть файл"
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void readFile_Click(object sender, EventArgs e)
         {
             textBox1.Text = "";
